@@ -6,5 +6,4 @@
   #define HELLO_EXPORT
 #endif
 
-HELLO_EXPORT void hello();
 HELLO_EXPORT void hello(int);
