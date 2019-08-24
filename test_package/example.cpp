@@ -3,4 +3,5 @@
 
 int main() {
     hello();
+    hello(25);
 }
